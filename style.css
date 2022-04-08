@@ -95,6 +95,8 @@ img {
   .row {
     width: 100vw;
     margin: 0 auto;
+    font-size: 14px;
+    padding-top: 10px;
     
   }
   #steps .row>.left,
@@ -105,6 +107,7 @@ img {
   margin-bottom: 80px;
   margin-right: auto;
   margin-left: auto;
+  
 }
 
 #steps{
@@ -127,6 +130,11 @@ img {
   margin-bottom: 10px;
 }
 
+
+#why .row>.second hr{
+  width: 100%;
+  
+}
 
 
 
